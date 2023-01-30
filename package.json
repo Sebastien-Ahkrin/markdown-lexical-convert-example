@@ -20,10 +20,13 @@
   },
   "homepage": "https://github.com/Sebastien-Ahkrin/markdown-lexical-convert-example#readme",
   "devDependencies": {
+    "@types/node": "^18.11.18",
     "eslint": "^8.33.0",
     "eslint-config-zakodium": "^7.0.0",
     "prettier": "^2.8.3",
-    "@types/node": "^18.11.18",
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "lexical": "^0.7.6"
   }
 }
