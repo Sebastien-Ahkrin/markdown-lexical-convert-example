@@ -27,6 +27,11 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
+    "@lexical/hashtag": "^0.7.6",
+    "@lexical/headless": "^0.7.6",
+    "@lexical/mark": "^0.7.6",
+    "@lexical/markdown": "^0.7.6",
+    "@lexical/overflow": "^0.7.6",
     "lexical": "^0.7.6"
   }
 }
